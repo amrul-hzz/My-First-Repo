@@ -4,4 +4,4 @@ NPM     : 2106634080
 
 Kelas   : C
 
-Hobi: Menggambar
+Hobi: HobiBoongBoong
